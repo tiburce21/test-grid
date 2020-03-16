@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<meta name="description" content="" />
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script src="https://use.typekit.net/pmd5iue.js"></script>
+	<script>
+		try {
+			Typekit.load({
+				async: true
+			});
+		} catch (e) {}
+
+	</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div class="page">
+
